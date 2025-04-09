@@ -10,4 +10,11 @@ After each set of ghosts hit the bottom of the screen, you gain 1 point. Every c
 <h2>License</h2>
 Halloween is completely open source meaning you can do whatever you like with it. 
 
-Thanks 4 Playing
+<h2>Ports</h2>
+So far the game has only been ported to macOS.
+
+Here are a list of platforms the game will be ported to:
+
+- Windows
+- Linux
+
